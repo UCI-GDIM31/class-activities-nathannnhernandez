@@ -25,6 +25,9 @@ Void setLightDimness(float x){
 28. Line 28 is getting the input of the player whenever they hit the space button and checking if the player is grounded before executing a jump
 32. Line 32 reassigns the value of _isGrounded to false as the payer is mid-jump, preventing them from double jumping.
 
+1. We added colliders to all three major game objects and we only checked is trigger on for the goal
+2. I was having the issue of being unable to detect when a goal was scored. It turns out my issue was as simple as not having an additional "=" in the if statement which was preventing the program from creating a proper comparison using the game tag.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
