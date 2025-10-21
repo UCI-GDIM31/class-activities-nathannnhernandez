@@ -19,6 +19,11 @@ Void setLightDimness(float x){
 1. The relationship between classes and components is like a russian nesting doll. Inside the game is the scene, inside the scene is the components, inside the components is the scripts, and finally, inside the scripts is the classes. Creating and altering classes within a script that is assigned to a component creates new attributes within the inspector (after serializing) that can be altered affecting gameplay. Such attributes include object velocity and color as seen in this activity. Understanding this nesting doll relationship allows a programmer to alter gameplay efficiently.
 
 2. There is no if statement preventing the brightness attribute from becoming too high, so as the ball increases in speed, it bounces more often, leading to increasingly consistent increases in brightness.
+
+### W4
+17. Line 17 is declaring a boolean variable and assigning it to true as an initial value
+28. Line 28 is getting the input of the player whenever they hit the space button and checking if the player is grounded before executing a jump
+32. Line 32 reassigns the value of _isGrounded to false as the payer is mid-jump, preventing them from double jumping.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
