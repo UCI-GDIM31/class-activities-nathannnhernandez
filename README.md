@@ -28,6 +28,10 @@ Void setLightDimness(float x){
 1. We added colliders to all three major game objects and we only checked is trigger on for the goal
 2. I was having the issue of being unable to detect when a goal was scored. It turns out my issue was as simple as not having an additional "=" in the if statement which was preventing the program from creating a proper comparison using the game tag.
 
+### W5
+How does GetComponent() work?
+GetComponent() is a method integrated within Unity's library which can be called in order to alter a GameObject's components. Inside <> symbols, the programmer specifies what component is being interferred with.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
