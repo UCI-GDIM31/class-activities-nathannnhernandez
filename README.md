@@ -31,6 +31,8 @@ Void setLightDimness(float x){
 ### W5
 How does GetComponent() work?
 GetComponent() is a method integrated within Unity's library which can be called in order to alter a GameObject's components. Inside <> symbols, the programmer specifies what component is being interferred with.
+How does Vector3 work?
+Vector3 spevifically targets 3d movement whereas Vector2 targets 2d movement
 
 ## Open-Source Assets
 ### W1
