@@ -34,6 +34,9 @@ GetComponent() is a method integrated within Unity's library which can be called
 How does Vector3 work?
 Vector3 spevifically targets 3d movement whereas Vector2 targets 2d movement
 
+### W6
+
+https://docs.google.com/document/d/1h_Y8rCF_le6ZcYOcLBTVEpvMZH8OPQ4Jag5PKy7dbnk/edit?tab=t.0
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
