@@ -37,6 +37,14 @@ Vector3 spevifically targets 3d movement whereas Vector2 targets 2d movement
 ### W6
 
 https://docs.google.com/document/d/1h_Y8rCF_le6ZcYOcLBTVEpvMZH8OPQ4Jag5PKy7dbnk/edit?tab=t.0
+
+In Class Activity
+	- Must serialize field
+	- Member variables: speed, determine if bats chase (distance)
+	- Will need both start() update()
+	- The methods need to determine whether or not the bats should chase the player 
+	- They also need to actually move the bats
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
