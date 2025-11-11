@@ -47,6 +47,7 @@ In Class Activity
 
 ### W7
 The code in step 2 wasn't working properly because the muskrat was not moving relative to its rotated orientation. By using transform.translate instead, the direction in which the gameobject translates is adjusted upon rotation.
+https://docs.google.com/document/d/1nSQTsrKYDlO6F7FmIx6hmC3CpusIQNMKURDBw7u9siU/edit?usp=sharing (animation)
 
 ## Open-Source Assets
 ### W1
