@@ -45,6 +45,9 @@ In Class Activity
 	- The methods need to determine whether or not the bats should chase the player 
 	- They also need to actually move the bats
 
+### W7
+The code in step 2 wasn't working properly because the muskrat was not moving relative to its rotated orientation. By using transform.translate instead, the direction in which the gameobject translates is adjusted upon rotation.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
